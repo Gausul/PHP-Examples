@@ -1,4 +1,4 @@
-# PHP-Read-DAT-file
+# PHP-Read-DAT-file (OMR DAT File)
 Read .dat file in php
 
 `<?php`
