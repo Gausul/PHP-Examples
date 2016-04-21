@@ -1,7 +1,6 @@
 <?php
 
 $fil = fopen ("xyz.dat", "r");
-$quotes=array();
 
 while ($filedata = fgets($fil))
      {
