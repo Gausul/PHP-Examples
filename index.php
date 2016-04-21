@@ -3,10 +3,10 @@
 $fil = fopen ("xyz.dat", "r");
 $quotes=array();
 
-while ($linje = fgets($fil))
+while ($filedata = fgets($fil))
      {
 
-        $q=str_split($linje);
+        $q=str_split($filedata);
 
 echo "<pre>";
 print_r($q);
