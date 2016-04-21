@@ -3,15 +3,13 @@ Read .dat file in php
 
 `<?php`
 
-`$fil = fopen ("xyz.dat", "r");`
+`$fil = fopen ("xyz.dat", "r");// xyz.dat file url`
 
-`$quotes=array();`
-
-`while ($linje = fgets($fil))`
+`while ($filedata = fgets($fil))`
 
 `{`
 
-`$q=str_split($linje);`
+`$q=str_split($filedata);`
 
 `echo "<pre>";`
 
@@ -24,4 +22,5 @@ Read .dat file in php
 `echo "<pre>";`
 
 `?>`
+
 
