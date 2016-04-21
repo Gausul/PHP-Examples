@@ -1,5 +1,4 @@
 <?php
-error_reporting(0);
 
 $fil = fopen ("xyz.dat", "r");
 $quotes=array();
