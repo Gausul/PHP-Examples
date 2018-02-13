@@ -7,7 +7,13 @@
 
 # Example Projects
 
+1: [html-to-pdf](https://github.com/Gausul/PHP-Examples/tree/master/html-to-pdf)
 
+2: [ReadExcelByPHP](https://github.com/Gausul/PHP-Examples/tree/master/ReadExcelByPHP)
+
+3: [ReadDatFileInPhp](https://github.com/Gausul/PHP-Examples/tree/master/ReadDatFileInPhp)
+
+4: [PHP-REST](https://github.com/Gausul/PHP-Examples/tree/master/PHP-REST)
 
 
 ### Created By
